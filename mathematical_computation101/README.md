@@ -11,7 +11,7 @@
 
 - Lecture_note : Jupyter notebook
 - code: Python code
-- test: unittest用
+  - test: unittest用
 - material : その他関連資料
 
 ## プログラミング言語
