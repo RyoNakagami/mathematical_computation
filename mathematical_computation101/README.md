@@ -5,7 +5,7 @@
 |更新日|2020-03-23 Monday 18:18:40|
 |目的|数値解析、数値計算の基礎を習得する|
 |Requirement|高校数学|
-|テキスト|[わかりやすい数値計算入門](https://www.kinokuniya.co.jp/f/dsg-01-9784896411942)|
+|テキスト|[わかりやすい数値計算入門](https://www.kinokuniya.co.jp/f/dsg-01-9784896411942)<br> 数値計算の常識, ISBN	978-4-320-01343-8|
 
 ## Directory構成
 
